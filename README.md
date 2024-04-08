@@ -1,27 +1,14 @@
-# LandingPageAngular17
+Este é um projeto de uma landing page desenvolvida em Angular 17, baseado no tutorial disponibilizado por Fernanda Kipper no YouTube.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+O tutorial original pode ser encontrado aqui: https://www.youtube.com/watch?v=O26fDEnAukY
 
-## Development server
+![image](https://github.com/Isabellagouveias/LandingPage-Angular17/assets/83821360/d7211161-3745-4367-8f62-85b3fdfc5693)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/Isabellagouveias/LandingPage-Angular17/assets/83821360/07b11ecd-4aa3-4997-86e0-4c34a429cebb)
 
-## Code scaffolding
+![image](https://github.com/Isabellagouveias/LandingPage-Angular17/assets/83821360/2bac507e-ccbc-4892-9fd5-36929f09d934)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://github.com/Isabellagouveias/LandingPage-Angular17/assets/83821360/55c4123a-18fd-4f31-9661-deb180249ae7)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
